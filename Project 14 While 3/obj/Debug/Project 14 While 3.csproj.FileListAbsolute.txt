@@ -1,0 +1,6 @@
+c:\users\mrt_b\source\repos\Project 14 While 3\Project 14 While 3\bin\Debug\Project 14 While 3.exe.config
+c:\users\mrt_b\source\repos\Project 14 While 3\Project 14 While 3\bin\Debug\Project 14 While 3.exe
+c:\users\mrt_b\source\repos\Project 14 While 3\Project 14 While 3\bin\Debug\Project 14 While 3.pdb
+c:\users\mrt_b\source\repos\Project 14 While 3\Project 14 While 3\obj\Debug\Project 14 While 3.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Project 14 While 3\Project 14 While 3\obj\Debug\Project 14 While 3.exe
+c:\users\mrt_b\source\repos\Project 14 While 3\Project 14 While 3\obj\Debug\Project 14 While 3.pdb
